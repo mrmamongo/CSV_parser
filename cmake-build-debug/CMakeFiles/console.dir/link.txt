@@ -1,0 +1,2 @@
+/usr/bin/ar qc libconsoled.a  CMakeFiles/console.dir/soruces/console.cpp.o
+/usr/bin/ranlib libconsoled.a

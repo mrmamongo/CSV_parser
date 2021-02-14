@@ -1,0 +1,29 @@
+[][info][]: No input file
+[][info][]: Parse: file opened
+[][info][]: Values parsed: 2 | St.Petersburg
+[][info][]: Values parsed: 3 | Maiami
+[][info][]: Values parsed: 2 | Saratov
+[][info][]: Values parsed: 3 | Moscow
+[][info][]: Values parsed: 4 | Praga
+[][info][]: Values parsed: 2 | Berlin
+[][info][]: Values parsed: 2 | St.Petersburg
+[][info][]: Values parsed: 3 | Maiami
+[][info][]: Values parsed: 2 | Saratov
+[][info][]: Values parsed: 3 | Moscow
+[][info][]: Values parsed: 4 | Praga
+[][info][]: Values parsed: 2 | Berlin
+[][info][]: Values parsed: 2 | St.Petersburg
+[][info][]: Values parsed: 3 | Maiami
+[][info][]: Values parsed: 2 | Saratov
+[][info][]: Values parsed: 3 | Moscow
+[][info][]: Values parsed: 4 | Praga
+[][info][]: Values parsed: 2 | Berlin
+[][info][]: Values parsed: 2 | St.Petersburg
+[][info][]: Values parsed: 3 | Maiami
+[][info][]: Values parsed: 2 | Saratov
+[][info][]: Values parsed: 3 | Moscow
+[][info][]: Values parsed: 4 | Praga
+[][info][]: Values parsed: 2 | Berlin
+[][info][]: Parsing done
+[][info][]: Values num: 24
+[][info][]: Writing done, values are written tolog_json/log.json
